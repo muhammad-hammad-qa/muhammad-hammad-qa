@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
 <h3 align="center">
-Software Automation Engineer from Pakistan
+QA Automation Engineer from Pakistan
 </h3>
 
 <p align="left">
