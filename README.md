@@ -8,7 +8,7 @@ QA Automation Engineer from Pakistan
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHammadHami&theme=dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-hammad-qa&theme=dark" />
 </p>
 
 ---
@@ -73,10 +73,10 @@ QA Automation Engineer from Pakistan
 ## 📊 GitHub Stats
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadHammadHami&show_icons=true&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-hammad-qa&show_icons=true&layout=compact&theme=tokyonight)
 
 ### Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHammadHami&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-hammad-qa&show_icons=true&theme=tokyonight)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHammadHami&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-hammad-qa&theme=dark)
